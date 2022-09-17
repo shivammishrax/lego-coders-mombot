@@ -1,0 +1,228 @@
+[Vibha Chawla] 12:34:09
+let's wait for others to join
+
+[Vibha Chawla] 12:34:15
+Hmm! You raise him
+
+[Vibha Chawla] 12:34:53
+Can you still hear me, or did you enable the manual button?
+
+[Vibha Chawla] 12:34:57
+Yeah, it's okay.
+
+[mayuri mundada] 12:35:00
+we can hear you. Oh, okay.
+
+[Vibha Chawla] 12:35:04
+Okay.
+
+[Vibha Chawla] 12:35:36
+I have been part Let's just wait for him to join
+
+[Vibha Chawla] 12:35:51
+Hi! Hi! Bar! Hello! Everyone so Oh, welcome to the hackathon call!
+
+[Parth] 12:35:51
+hey? Hi? Everyone, Yeah, Yeah.
+
+[Vibha Chawla] 12:35:58
+We have a Viba Shiva Mayori.
+
+[Vibha Chawla] 12:36:01
+So Godwin part in this call. So here we are going to discuss about the status of what we have done so far, and what are the next steps?
+
+[Vibha Chawla] 12:36:10
+so, as we all know, Hackathon is coming up in this weekend, and we have to complete one task which is to be submitted on Monday morning we have picked up the topic of Mo which is minutes of the meeting and that's why we are also, saving and
+
+[Vibha Chawla] 12:36:28
+storeing The transcript of this meeting. So whatever we are speaking right now is getting saved in zoom.
+
+[Vibha Chawla] 12:36:35
+That's the feature we have enabled in the post on zoom.
+
+[Vibha Chawla] 12:36:38
+This feature is not available, as of now in Companies Zoom, but we can request for the same to the Admins.
+
+[Vibha Chawla] 12:36:46
+They have the flexibility and facility to provide the same feature.
+
+[Vibha Chawla] 12:36:52
+yeah, And I think we made a pretty good progress last night.
+
+[Vibha Chawla] 12:36:56
+Part Can you tell about your progress? Which was done on the Python code yesterday?
+
+[Parth] 12:37:00
+Yeah, we were sure. So like we have started developing the main script, which will be which we will be using for getting the minutes of meeting out of input, text.
+
+[Parth] 12:37:12
+So we are using python as a base language, and on top of it we'll be using natural language.
+
+[Parth] 12:37:18
+Toolkit. So for now we have came up with an like very first initial version of our code, and soon will be implementing some more changes in it like we'll be able to collect questions display the participants along with the date and time of the meeting Yeah.
+
+[Vibha Chawla] 12:37:38
+Okay, that sounds perfect. So who can take up the presentation work hasn't even started working on it?
+
+[Vibha Chawla] 12:37:44
+Do you have any ideas? What exactly are you trying or planning to put it on their presentations?
+
+[mayuri mundada] 12:37:51
+Oh, vipa! So me and Sogato would be working on presentation.
+
+[mayuri mundada] 12:37:58
+We would be putting the problem statement then existing tools in market.
+
+[mayuri mundada] 12:38:01
+What the we have improved on top of it, and that calls where we can integrate our code.
+
+[mayuri mundada] 12:38:08
+Then we also will include details of technologies used to develop this tool, and with a small small demo and screenshots, followed by that in the presentation
+
+[Vibha Chawla] 12:38:20
+yeah, that sounds perfect. I think we can also add a video of the recorded demo.
+
+[Vibha Chawla] 12:38:25
+That would be nice to have also shivam.
+
+[mayuri mundada] 12:38:28
+Sure.
+
+[Vibha Chawla] 12:38:29
+Have you thought about the integration perspective? Do you have pointers?
+
+[Vibha Chawla] 12:38:33
+What exactly, and how exactly we are going to integrate this stuff
+
+[Shivam Mishra] 12:38:38
+Okay, right now, I was reading some blocks, So I'm getting some ideas how to integrate it.
+
+[Shivam Mishra] 12:38:44
+So firstly, we can integrate it through. Why, zoom only so in the zoom there is a marketplace of zoom where we can integrate our python code inside the zoom, and we can take the transcript file from there and it would be process. Process.
+
+[Shivam Mishra] 12:39:00
+And it can give us the required output off of her One way.
+
+[Shivam Mishra] 12:39:06
+Other thing is that we can host a server on the as your cloud, and there we can run the Python code, and we have to press the file from the zoom to the endo platform, and there we can use the same metalology.
+
+[Shivam Mishra] 12:39:18
+And we can save. Oh, what and email further can email the response of that.
+
+[Shivam Mishra] 12:39:24
+So that's how we got onto it. And maybe there are better ways also to do it, and we will explore It today.
+
+[Vibha Chawla] 12:39:33
+I think that sounds great. Yeah, we both can work on the integration part together.
+
+[Vibha Chawla] 12:39:38
+Yes, we can. I think explore the Zoom marketplace, and that's your thing.
+
+[Vibha Chawla] 12:39:41
+And if you in case nothing works out, then we can demote on local as well.
+
+[Vibha Chawla] 12:39:45
+That is also another option. So regarding the Mlm structure, have we discussed about it?
+
+[Vibha Chawla] 12:39:50
+Have you decided on something? So I think we can add somebody.
+
+[Vibha Chawla] 12:39:58
+we can add questions. We can add pointers and the action points, but anyone has anything else to add to which the structure of the minutes of meeting
+
+[Shivam Mishra] 12:40:10
+Yeah, in the summary we can add the recip like participant list, Timestamp.
+
+[Shivam Mishra] 12:40:16
+And what the meeting is all about. Maybe the heading
+
+[Vibha Chawla] 12:40:22
+Yeah, I think that would be a great idea. Yeah.
+
+[Sougata’s iPhone] 12:40:23
+it is edit agenda. I can send properly discussed.
+
+[Shivam Mishra] 12:40:27
+Yeah.
+
+[Sougata’s iPhone] 12:40:28
+And then access X and I to ask one
+
+[Vibha Chawla] 12:40:33
+Okay, that would be great. So I think we have an action plan.
+
+[Vibha Chawla] 12:40:37
+So action. Item: one. My audience Sogato, will be working on the presentation with the existing models.
+
+[Vibha Chawla] 12:40:44
+What we have right now, and whatever the present cons we have, and the our model, the technology related to when and stuff like that Second action.
+
+[Vibha Chawla] 12:40:51
+Item, 2 shabby and me will be working on the integration items for the python code, which is developed by a part and also explore other options of saving and retrieving this transcript from Zoom and Teams and other options available for chatting
+
+[Vibha Chawla] 12:41:10
+and meeting platforms and the action Item: Free path will be working on the structure of minutes of meeting, I think, to make it more better and also, he will be working on other options available in Facebook and other platforms.
+
+[Vibha Chawla] 12:41:27
+They it can read in words in a better way, and translate and transcript, can work better with those platforms and libraries.
+
+[Vibha Chawla] 12:41:35
+Is that it?
+
+[Parth] 12:41:38
+yeah, yes, Fiba
+
+[Vibha Chawla] 12:41:39
+Anything else from anyone
+
+[mayuri mundada] 12:41:40
+so when we can reconvene again
+
+[Vibha Chawla] 12:41:44
+I think. Let's connect at 3 o'clock again, and discuss about the progress made.
+
+[Vibha Chawla] 12:41:51
+Until then maybe we can have lunch, and we can work on our own items.
+
+[mayuri mundada] 12:41:55
+okay.
+
+[Vibha Chawla] 12:41:56
+3 o'clock works with everyone
+
+[Shivam Mishra] 12:41:59
+Yes, fine with us.
+
+[Vibha Chawla] 12:42:01
+Okay, So next action point. It's made at 3 o'clock and discuss about the progress mate.
+
+[Vibha Chawla] 12:42:06
+So far, and about the next items
+
+[Vibha Chawla] 12:42:10
+Okay, Thank you So much. Thanks everyone. Please remember to save transcript, and at least more than 2 people.
+
+[Shivam Mishra] 12:42:13
+Thank you everyone, because it is there. Only
+
+[Sougata’s iPhone] 12:42:15
+okay.
+
+[Vibha Chawla] 12:42:18
+Yeah, please. Click on same transcript
+
+[mayuri mundada] 12:42:21
+I too. Did. Okay.
+
+[Vibha Chawla] 12:42:24
+Perfect. Thank you. Thanks: everyone. Okay, Thank you.
+
+[mayuri mundada] 12:42:26
+Thank you. Everyone
+
+[Sougata’s iPhone] 12:42:26
+Thank you.
+
+[Parth] 12:42:30
+thanks.
+
