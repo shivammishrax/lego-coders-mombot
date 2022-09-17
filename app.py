@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, send_file
 
-from transcribe import generate_mom
+from transcribe import generateMOM
 
 app = Flask(__name__)
 global f
@@ -14,7 +14,7 @@ def generate():
     if request.method == 'POST':
         f = request.files['file']
         f.save(f.filename) 
-        path = generate_mom(f.filename)
+        path = generateMOM(f.filename)
         with open(path, 'r') as f:
             t=f.read() 
         return render_template('upload.html', t=t)
